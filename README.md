@@ -1,2 +1,2 @@
 # coursera-ml
-Machine Learning @Coursera by Andrew Ng
+Machine Learning & Deep Learning Specialization @Coursera by Andrew Ng
